@@ -1,2 +1,2 @@
 # mi-proyecto
-Machine Learning
+Estadistica y sus aplicaciones 
